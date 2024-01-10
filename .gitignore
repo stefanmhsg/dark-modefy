@@ -1,0 +1,9 @@
+# Ignore input and output directories
+input/
+output/
+
+# Ignore all PDF files in the project directory
+*.pdf
+
+# Additionally, ignore any other file types or directories as needed
+# e.g., secret configurations, log files, etc.
